@@ -1,0 +1,7 @@
+D:\Old\Abhishek\CustomerDemo\MiddleLayer\bin\Debug\MiddleLayer.dll
+D:\Old\Abhishek\CustomerDemo\MiddleLayer\bin\Debug\MiddleLayer.pdb
+D:\Old\Abhishek\CustomerDemo\MiddleLayer\bin\Debug\InterfaceCustomer.dll
+D:\Old\Abhishek\CustomerDemo\MiddleLayer\bin\Debug\InterfaceCustomer.pdb
+D:\Old\Abhishek\CustomerDemo\MiddleLayer\obj\Debug\MiddleLayer.csprojResolveAssemblyReference.cache
+D:\Old\Abhishek\CustomerDemo\MiddleLayer\obj\Debug\MiddleLayer.dll
+D:\Old\Abhishek\CustomerDemo\MiddleLayer\obj\Debug\MiddleLayer.pdb

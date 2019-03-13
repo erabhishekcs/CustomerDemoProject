@@ -1,0 +1,5 @@
+D:\Old\Abhishek\CustomerDemo\InterfaceCustomer\bin\Debug\InterfaceCustomer.dll
+D:\Old\Abhishek\CustomerDemo\InterfaceCustomer\bin\Debug\InterfaceCustomer.pdb
+D:\Old\Abhishek\CustomerDemo\InterfaceCustomer\obj\Debug\InterfaceCustomer.dll
+D:\Old\Abhishek\CustomerDemo\InterfaceCustomer\obj\Debug\InterfaceCustomer.pdb
+D:\Old\Abhishek\CustomerDemo\InterfaceCustomer\obj\Debug\InterfaceCustomer.csprojResolveAssemblyReference.cache
